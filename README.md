@@ -1,4 +1,4 @@
-# campus-map-pathfinding
+# Campus Map Pathfinding
 C++ campus map application that finds a meeting building and shortest walking paths for two people.
 
 ## How it works
