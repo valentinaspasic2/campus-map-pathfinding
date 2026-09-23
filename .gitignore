@@ -1,0 +1,6 @@
+*:Zone.Identifier
+build/
+.vscode/
+osm_main
+osm_server
+osm_tests
